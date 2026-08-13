@@ -1,0 +1,106 @@
+{
+    "Backend Development": {
+        "description": "Build and maintain the server-side of web applications.",
+        "skills": [
+            "Python",
+            "Git",
+            "SQL",
+            "APIs",
+            "Databases",
+            "Django",
+            "Authentication",
+            "Deployment"
+        ]
+    },
+    "Frontend Development": {
+        "description": "Build the user interface and client-side of web applications.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Git",
+            "Responsive Design",
+            "React",
+            "APIs",
+            "TypeScript"
+        ]
+    },
+    "Data Analysis": {
+        "description": "Analyze data and create useful insights and visualizations.",
+        "skills": [
+            "Excel",
+            "SQL",
+            "Python",
+            "NumPy",
+            "Pandas",
+            "Data Visualization",
+            "Statistics",
+            "Power BI"
+        ]
+    },
+    "AI / Machine Learning": {
+        "description": "Build systems that learn from data and make predictions.",
+        "skills": [
+            "Python",
+            "NumPy",
+            "Pandas",
+            "Statistics",
+            "Data Preprocessing",
+            "Machine Learning",
+            "Scikit-learn",
+            "Deep Learning"
+        ]
+    },
+    "Data Science": {
+        "description": "Use statistics, programming, and machine learning to understand data.",
+        "skills": [
+            "Python",
+            "SQL",
+            "Statistics",
+            "Probability",
+            "NumPy",
+            "Pandas",
+            "Data Visualization",
+            "Machine Learning"
+        ]
+    },
+    "Cybersecurity": {
+        "description": "Protect systems, networks, and data from security threats.",
+        "skills": [
+            "Networking",
+            "Linux",
+            "Python",
+            "Cybersecurity Basics",
+            "Cryptography",
+            "Web Security",
+            "Ethical Hacking",
+            "Security Tools"
+        ]
+    },
+    "DevOps": {
+        "description": "Automate development, deployment, and infrastructure processes.",
+        "skills": [
+            "Linux",
+            "Git",
+            "Networking",
+            "Docker",
+            "CI/CD",
+            "Cloud Computing",
+            "AWS",
+            "Kubernetes"
+        ]
+    },
+    "Mobile Development": {
+        "description": "Build applications for mobile devices.",
+        "skills": [
+            "Dart",
+            "Flutter",
+            "Git",
+            "UI Development",
+            "APIs",
+            "State Management",
+            "Local Storage",
+            "Mobile App Testing"
+        ]
+    }
+}

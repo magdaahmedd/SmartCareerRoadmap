@@ -1,0 +1,346 @@
+{
+    "Python": {
+        "resources": [
+            "Official Python Documentation - docs.python.org",
+            "W3Schools - Python Tutorial",
+            "freeCodeCamp - Python for Beginners (YouTube)"
+        ],
+        "project_idea": "Simple Command-Line Calculator"
+    },
+    "Git": {
+        "resources": [
+            "Official Git Documentation - git-scm.com",
+            "W3Schools - Git Tutorial",
+            "freeCodeCamp - Git and GitHub for Beginners (YouTube)"
+        ],
+        "project_idea": "Track Changes to a Personal Notes File Using Git"
+    },
+    "SQL": {
+        "resources": [
+            "W3Schools - SQL Tutorial",
+            "Official PostgreSQL Documentation - postgresql.org/docs",
+            "freeCodeCamp - SQL for Beginners (YouTube)"
+        ],
+        "project_idea": "Simple Student Records Database"
+    },
+    "APIs": {
+        "resources": [
+            "MDN Web Docs - Introduction to Web APIs",
+            "freeCodeCamp - APIs for Beginners (YouTube)",
+            "Postman Learning Center - Beginner Guide to APIs"
+        ],
+        "project_idea": "Weather App Using a Public Weather API"
+    },
+    "Databases": {
+        "resources": [
+            "W3Schools - Database Concepts",
+            "Microsoft Learn - Database Fundamentals",
+            "freeCodeCamp - Relational Database Basics (YouTube)"
+        ],
+        "project_idea": "Simple Contact List Stored in a Database"
+    },
+    "Django": {
+        "resources": [
+            "Official Django Documentation - docs.djangoproject.com",
+            "Django Girls Tutorial - djangogirls.org",
+            "freeCodeCamp - Django for Beginners (YouTube)"
+        ],
+        "project_idea": "Basic To-Do List Web App"
+    },
+    "Authentication": {
+        "resources": [
+            "MDN Web Docs - Authentication Concepts",
+            "Auth0 - Authentication Basics for Beginners",
+            "freeCodeCamp - Authentication Explained (YouTube)"
+        ],
+        "project_idea": "Simple Login and Signup Page"
+    },
+    "Deployment": {
+        "resources": [
+            "Microsoft Learn - Deployment Fundamentals",
+            "Render Documentation - Beginner Deployment Guide",
+            "freeCodeCamp - How to Deploy a Web App (YouTube)"
+        ],
+        "project_idea": "Deploy a Simple Static Website Online"
+    },
+    "HTML": {
+        "resources": [
+            "W3Schools - HTML",
+            "MDN Web Docs - HTML",
+            "YouTube - HTML Crash Course"
+        ],
+        "project_idea": "Simple Personal Profile Page"
+    },
+    "CSS": {
+        "resources": [
+            "W3Schools - CSS Tutorial",
+            "MDN Web Docs - CSS",
+            "freeCodeCamp - CSS for Beginners (YouTube)"
+        ],
+        "project_idea": "Style a Personal Profile Page"
+    },
+    "JavaScript": {
+        "resources": [
+            "W3Schools - JavaScript Tutorial",
+            "MDN Web Docs - JavaScript",
+            "freeCodeCamp - JavaScript for Beginners (YouTube)"
+        ],
+        "project_idea": "Simple To-Do List with Add and Delete Buttons"
+    },
+    "Responsive Design": {
+        "resources": [
+            "MDN Web Docs - Responsive Design",
+            "W3Schools - Responsive Web Design",
+            "freeCodeCamp - Responsive Web Design Course (YouTube)"
+        ],
+        "project_idea": "Make a Personal Portfolio Page Mobile-Friendly"
+    },
+    "React": {
+        "resources": [
+            "Official React Documentation - react.dev",
+            "W3Schools - React Tutorial",
+            "freeCodeCamp - React for Beginners (YouTube)"
+        ],
+        "project_idea": "Simple Counter App with React"
+    },
+    "TypeScript": {
+        "resources": [
+            "Official TypeScript Documentation - typescriptlang.org/docs",
+            "W3Schools - TypeScript Tutorial",
+            "freeCodeCamp - TypeScript for Beginners (YouTube)"
+        ],
+        "project_idea": "Convert a Small JavaScript Project into TypeScript"
+    },
+    "Excel": {
+        "resources": [
+            "Microsoft Learn - Excel Fundamentals",
+            "W3Schools - Excel Tutorial",
+            "freeCodeCamp - Excel for Beginners (YouTube)"
+        ],
+        "project_idea": "Simple Monthly Budget Tracker"
+    },
+    "NumPy": {
+        "resources": [
+            "Official NumPy Documentation - numpy.org/doc",
+            "W3Schools - NumPy Tutorial",
+            "freeCodeCamp - NumPy for Beginners (YouTube)"
+        ],
+        "project_idea": "Basic Array Operations Calculator"
+    },
+    "Pandas": {
+        "resources": [
+            "Official Pandas Documentation - pandas.pydata.org/docs",
+            "W3Schools - Pandas Tutorial",
+            "Kaggle - Pandas Micro-Course"
+        ],
+        "project_idea": "Clean and Explore a Simple CSV Dataset"
+    },
+    "Data Visualization": {
+        "resources": [
+            "Official Matplotlib Documentation - matplotlib.org",
+            "Kaggle - Data Visualization Course",
+            "freeCodeCamp - Data Visualization for Beginners (YouTube)"
+        ],
+        "project_idea": "Create Charts from a Simple Sales Dataset"
+    },
+    "Statistics": {
+        "resources": [
+            "Khan Academy - Statistics and Probability",
+            "Kaggle - Intro to Statistics",
+            "freeCodeCamp - Statistics for Beginners (YouTube)"
+        ],
+        "project_idea": "Calculate Mean, Median, and Mode of a Small Dataset"
+    },
+    "Power BI": {
+        "resources": [
+            "Microsoft Learn - Power BI Fundamentals",
+            "Official Power BI Documentation - learn.microsoft.com/power-bi",
+            "freeCodeCamp - Power BI for Beginners (YouTube)"
+        ],
+        "project_idea": "Simple Sales Dashboard in Power BI"
+    },
+    "Data Preprocessing": {
+        "resources": [
+            "Kaggle - Data Cleaning Course",
+            "Scikit-learn Documentation - Preprocessing Data",
+            "freeCodeCamp - Data Preprocessing for Beginners (YouTube)"
+        ],
+        "project_idea": "Clean a Messy CSV Dataset for Analysis"
+    },
+    "Machine Learning": {
+        "resources": [
+            "Google - Machine Learning Crash Course",
+            "Kaggle - Intro to Machine Learning",
+            "freeCodeCamp - Machine Learning for Beginners (YouTube)"
+        ],
+        "project_idea": "Predict House Prices with a Simple Model"
+    },
+    "Scikit-learn": {
+        "resources": [
+            "Official Scikit-learn Documentation - scikit-learn.org",
+            "Kaggle - Scikit-learn Basics",
+            "freeCodeCamp - Scikit-learn Tutorial (YouTube)"
+        ],
+        "project_idea": "Build a Simple Flower Classification Model"
+    },
+    "Deep Learning": {
+        "resources": [
+            "Google - Machine Learning Crash Course (Deep Learning Section)",
+            "Official TensorFlow Documentation - tensorflow.org",
+            "freeCodeCamp - Deep Learning for Beginners (YouTube)"
+        ],
+        "project_idea": "Build a Simple Handwritten Digit Classifier"
+    },
+    "Probability": {
+        "resources": [
+            "Khan Academy - Probability",
+            "Kaggle - Intro to Probability",
+            "freeCodeCamp - Probability for Beginners (YouTube)"
+        ],
+        "project_idea": "Simulate Dice Rolls and Calculate Probabilities"
+    },
+    "Networking": {
+        "resources": [
+            "Cisco Networking Academy - Networking Basics",
+            "Microsoft Learn - Networking Fundamentals",
+            "freeCodeCamp - Networking Basics for Beginners (YouTube)"
+        ],
+        "project_idea": "Diagram a Simple Home Network Setup"
+    },
+    "Linux": {
+        "resources": [
+            "Official Linux Documentation Project - tldp.org",
+            "freeCodeCamp - Linux for Beginners (YouTube)",
+            "Microsoft Learn - Linux Fundamentals"
+        ],
+        "project_idea": "Practice Basic Commands in a Linux Terminal"
+    },
+    "Cybersecurity Basics": {
+        "resources": [
+            "Cisco Networking Academy - Introduction to Cybersecurity",
+            "Microsoft Learn - Security Fundamentals",
+            "freeCodeCamp - Cybersecurity for Beginners (YouTube)"
+        ],
+        "project_idea": "Create a Personal Password Safety Checklist"
+    },
+    "Cryptography": {
+        "resources": [
+            "Khan Academy - Cryptography",
+            "Cisco Networking Academy - Cryptography Basics",
+            "freeCodeCamp - Cryptography for Beginners (YouTube)"
+        ],
+        "project_idea": "Build a Simple Caesar Cipher Encoder/Decoder"
+    },
+    "Web Security": {
+        "resources": [
+            "MDN Web Docs - Web Security",
+            "Cisco Networking Academy - Web Security Basics",
+            "freeCodeCamp - Web Security for Beginners (YouTube)"
+        ],
+        "project_idea": "Identify Common Vulnerabilities in a Sample Website"
+    },
+    "Ethical Hacking": {
+        "resources": [
+            "Cisco Networking Academy - Ethical Hacking Basics",
+            "freeCodeCamp - Ethical Hacking for Beginners (YouTube)",
+            "OWASP - Beginner Guide to Ethical Hacking"
+        ],
+        "project_idea": "Set Up a Safe Practice Lab Using a Virtual Machine"
+    },
+    "Security Tools": {
+        "resources": [
+            "Cisco Networking Academy - Security Tools Overview",
+            "Microsoft Learn - Security Tools Fundamentals",
+            "freeCodeCamp - Security Tools for Beginners (YouTube)"
+        ],
+        "project_idea": "Scan a Local Network Using a Beginner-Friendly Tool"
+    },
+    "Docker": {
+        "resources": [
+            "Official Docker Documentation - docs.docker.com",
+            "freeCodeCamp - Docker for Beginners (YouTube)",
+            "Microsoft Learn - Docker Fundamentals"
+        ],
+        "project_idea": "Containerize a Simple Python App"
+    },
+    "CI/CD": {
+        "resources": [
+            "Microsoft Learn - CI/CD Fundamentals",
+            "GitHub Docs - GitHub Actions for Beginners",
+            "freeCodeCamp - CI/CD for Beginners (YouTube)"
+        ],
+        "project_idea": "Set Up a Simple Automated Test Pipeline"
+    },
+    "Cloud Computing": {
+        "resources": [
+            "AWS Documentation - Cloud Computing Basics",
+            "Microsoft Learn - Cloud Computing Fundamentals",
+            "freeCodeCamp - Cloud Computing for Beginners (YouTube)"
+        ],
+        "project_idea": "Host a Simple Static Website on the Cloud"
+    },
+    "AWS": {
+        "resources": [
+            "AWS Documentation - Getting Started",
+            "AWS Skill Builder - Cloud Practitioner Essentials",
+            "freeCodeCamp - AWS for Beginners (YouTube)"
+        ],
+        "project_idea": "Deploy a Static Website Using AWS S3"
+    },
+    "Kubernetes": {
+        "resources": [
+            "Official Kubernetes Documentation - kubernetes.io/docs",
+            "Microsoft Learn - Kubernetes Fundamentals",
+            "freeCodeCamp - Kubernetes for Beginners (YouTube)"
+        ],
+        "project_idea": "Deploy a Simple App Using a Local Kubernetes Cluster"
+    },
+    "Dart": {
+        "resources": [
+            "Official Dart Documentation - dart.dev/guides",
+            "W3Schools - Dart Tutorial",
+            "freeCodeCamp - Dart for Beginners (YouTube)"
+        ],
+        "project_idea": "Simple Command-Line Number Guessing Game"
+    },
+    "Flutter": {
+        "resources": [
+            "Official Flutter Documentation - docs.flutter.dev",
+            "Flutter YouTube Channel - Flutter for Beginners",
+            "freeCodeCamp - Flutter Course (YouTube)"
+        ],
+        "project_idea": "Simple To-Do List Mobile App"
+    },
+    "UI Development": {
+        "resources": [
+            "Material Design Guidelines - material.io/design",
+            "Official Flutter Documentation - Building UI",
+            "freeCodeCamp - UI Design Basics for Beginners (YouTube)"
+        ],
+        "project_idea": "Design a Simple App Login Screen"
+    },
+    "State Management": {
+        "resources": [
+            "Official Flutter Documentation - State Management",
+            "freeCodeCamp - State Management for Beginners (YouTube)",
+            "Official React Documentation - Managing State"
+        ],
+        "project_idea": "Build a Counter App with Shared State"
+    },
+    "Local Storage": {
+        "resources": [
+            "MDN Web Docs - Web Storage API",
+            "Official Flutter Documentation - Persisting Data",
+            "freeCodeCamp - Local Storage for Beginners (YouTube)"
+        ],
+        "project_idea": "Save Notes Locally in a Simple App"
+    },
+    "Mobile App Testing": {
+        "resources": [
+            "Official Flutter Documentation - Testing",
+            "Microsoft Learn - Mobile App Testing Basics",
+            "freeCodeCamp - Mobile App Testing for Beginners (YouTube)"
+        ],
+        "project_idea": "Write Basic Tests for a Simple To-Do App"
+    }
+}
